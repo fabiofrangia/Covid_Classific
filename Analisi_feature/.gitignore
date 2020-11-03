@@ -1,0 +1,5 @@
+*.xlsx
+*.json
+*.ods
+*.csv
+/catboost_info
